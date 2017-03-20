@@ -172,6 +172,7 @@ hr.small {
 
 .myresume {
     padding: 100px 0;
+    background-color: #2E4BA1;
 }
 
 .service-item {
@@ -222,6 +223,7 @@ hr.small {
 /* Skills */
 .myskills {
     padding: 50px 0;
+    background-color: #2E4BA1;
 }
 
 /*.call-to-action .btn {
