@@ -291,7 +291,7 @@ th {
 .glyphicon-minus:before {
   content: "\2212";
 }
-.glyphicon-cloud:before {
+.glyphicon-file-pdf:before {
   content: "\2601";
 }
 .glyphicon-envelope:before {
@@ -867,10 +867,10 @@ th {
 .glyphicon-registration-mark:before {
   content: "\e195";
 }
-.glyphicon-cloud-download:before {
+.glyphicon-file-pdf-download:before {
   content: "\e197";
 }
-.glyphicon-cloud-upload:before {
+.glyphicon-file-pdf-upload:before {
   content: "\e198";
 }
 .glyphicon-tree-conifer:before {
