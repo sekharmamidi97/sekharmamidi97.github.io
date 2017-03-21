@@ -278,3 +278,34 @@ footer {
 .projectdescription {
     text-align: left;
 }
+
+#sevenup {
+    text-align: left;
+    text-decoration: underline;
+}
+
+#sevenupdescription {
+    text-align: left;
+}
+
+#bbkt {
+    text-align: left;
+    text-decoration: underline;
+}
+
+#bbktdescription {
+    text-align: left;
+}
+
+#numbers {
+    text-align: left;
+    text-decoration: underline;
+}
+
+#numbersdescription {
+    text-align: left;
+}
+
+#additionalprojects {
+    text-align: left;
+}
