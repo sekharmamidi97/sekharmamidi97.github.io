@@ -168,10 +168,10 @@ hr.small {
     padding: 50px 0;
 }
 
-/* Services */
+/* Resume */
 
 .myresume {
-    /*padding: 100px 0;*/
+    padding: 100px 0;
     background-color: #2E4BA1;
     color: white;
     text-align: center;
@@ -207,6 +207,7 @@ hr.small {
 
 .img-echo {
     margin: 0 auto;
+    display: inline-block;
 }
 
 .img-echo:hover {
@@ -215,6 +216,7 @@ hr.small {
 
 .img-address {
     margin: 0 auto;
+    display: inline-block;
 }
 
 .img-address:hover {
@@ -265,4 +267,9 @@ footer {
 
 .project {
     text-decoration: underline;
+    text-align: left;
+}
+
+.lead {
+    text-align: left;
 }
