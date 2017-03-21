@@ -175,6 +175,7 @@ hr.small {
     background-color: #2E4BA1;
     color: white;
     text-align: center;
+    width: 50%;
 }
 
 .service-item {
@@ -205,21 +206,21 @@ hr.small {
     margin-bottom: 30px;
 }
 
-.img-echo {
+.img-echo img responsive: {
     margin: 0 auto;
     display: inline-block;
 }
 
-.img-echo:hover {
+.img-echo img responsive:hover {
     opacity: 0.8;
 }
 
-.img-address {
+.img-address img responsive: {
     margin: 0 auto;
     display: inline-block;
 }
 
-.img-address:hover {
+.img-address img responsive:hover {
     opacity: 0.8;
 }
 
@@ -271,5 +272,9 @@ footer {
 }
 
 .lead {
+    text-align: left;
+}
+
+.projectdescription {
     text-align: left;
 }
