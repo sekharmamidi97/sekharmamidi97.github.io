@@ -175,7 +175,7 @@ hr.small {
     background-color: #2E4BA1;
     color: white;
     text-align: center;
-    width: 50%;
+   
 }
 
 .service-item {
@@ -206,21 +206,21 @@ hr.small {
     margin-bottom: 30px;
 }
 
-.img-echo img responsive: {
+.img-echo {
     margin: 0 auto;
-    display: inline-block;
+    display: inline;
 }
 
-.img-echo img responsive:hover {
+.img-echo:hover {
     opacity: 0.8;
 }
 
-.img-address img responsive: {
+.img-address {
     margin: 0 auto;
-    display: inline-block;
+    display: inline;
 }
 
-.img-address img responsive:hover {
+.img-address:hover {
     opacity: 0.8;
 }
 
